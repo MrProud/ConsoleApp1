@@ -54,6 +54,8 @@ namespace ConsoleApp1
             //question.q8(1,3);
             //question.q7();
 
+            Console.WriteLine("==>程序运行完成");
+            Console.ReadLine();
         }
         static int GetNum()
         {
